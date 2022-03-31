@@ -2,7 +2,7 @@
 - 👀 I’m interested in technology, music and learning new skills
 - 🌱 I’m currently learning JavaScript, bootstrap and Java. 
 - 💞️ I’m looking to collaborate on ...I do not know yet
-- 📫 How to reach me ...
+- 📫 j.acunaalcaraz@gmail.com
 
 <!---
 josueacuna1/josueacuna1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
