@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @josueacuna1
-- 👀 I’m interested in technology, music and learning new skills
-- 🌱 I’m currently learning JavaScript, bootstrap and Java. 
-- 💞️ I’m looking to collaborate on ...I do not know yet
+- 👋 Hi, I’m Josué Acuña 🇲🇽
+- 👀 I’m interested in technology, and learning new skills
+- 🌊 I love traveling, good food, coding and fixing bugs.
+- 🚀 I’m currently learning Vue, C#, Python. 
+- 👨🏻‍💻 CMV
 - 📫 j.acunaalcaraz@gmail.com
 
 <!---
